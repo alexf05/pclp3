@@ -1,4 +1,4 @@
-### pclp3
+### pclp3 ###
 
 # lab1
 Laboratorul introduce concepte fundamentale de programare în Python, cum ar fi variabile, tipuri de date, liste, stringuri și funcții, cu accent pe manipularea acestora în Jupyter Notebook. Se explorează operații de bază, indexare, slicing, iterații, procesarea textului cu RegEx și funcții cu argumente variabile, evidențiind bune practici și efecte laterale.
